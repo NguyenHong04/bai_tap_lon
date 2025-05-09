@@ -42,7 +42,7 @@ python btl.py
 
 schedule.every().day.at("06:00").do(crawl_data)
 📁 Cấu trúc thư mục
-nha-dat-da-nang-crawler/
+bai_tap_lon/
 ├── btl.py             # Script chính thực hiện crawl dữ liệu
 ├── requirements.txt    # Danh sách thư viện cần cài đặt
 └── README.md           # Tài liệu hướng dẫn sử dụng dự án
