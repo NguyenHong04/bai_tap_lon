@@ -53,6 +53,6 @@ re: Thư viện Python để xử lý các biểu thức chính quy, sử dụng
 
 pandas: Dùng để xử lý dữ liệu và lưu vào file Excel.
 
-schedule: Lên lịch tự động cho việc chạy chương trình mỗi ngày vào 6 giờ sáng.
+schedule: Lên lịch tự động cho việc chạy chương trình vào 6 giờ sáng hàng ngày.
 
 openpyxl: Để ghi dữ liệu vào file Excel.
